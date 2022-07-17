@@ -159,7 +159,7 @@ li a:hover {
 
 h2{
    
-    font-size: xx-large;
+    font-size: x-large;
     font-family: 'Lobster';
     color: darkorange;
     text-align: center;
@@ -173,8 +173,7 @@ h3{
    font-size: xx-large;
 }
 p{  
-    font-family: 'Tiro Devanagari Sanskrit';
-    
+    font-family: 'Tiro Devanagari Sanskrit';   
     font-display: swap;
     text-align: center;
     margin: 10px;

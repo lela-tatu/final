@@ -7,16 +7,26 @@
         display: none;
     }
     .Service-wrapper,
-    .menu-wrapper,
-    .wrapper-about-us,
-    .contact-wrapper,
     .footer{
         Max-height: 300px;
-        Height: 100%;
-
-        display: block;
+        height: 100%;
     }
-    
-    
+    .h1
+    .h2
+        {
+        Max-height: 300px;
+        display: none;
+        
+    }
+    .contact-wrapper{
+        display: none;
+    }
+    .wrapper-about-us
+    {  
+       display: none;
+    }
+    .logo{
+        display:none ;
+    }
 
 }
