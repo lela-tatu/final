@@ -6,11 +6,17 @@
     .ul {
         display: none;
     }
-    .Service-wrapper{
+    .Service-wrapper,
+    .menu-wrapper,
+    .wrapper-about-us,
+    .contact-wrapper,
+    .footer{
+        Max-height: 300px;
+        Height: 100%;
+
         display: block;
     }
-    .wrapper-about-us{
-        display: block;
-    }
+    
+    
 
 }
